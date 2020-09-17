@@ -1,1 +1,4 @@
+potatoes/mysite/__pycache__/
 venv/
+.env
+**.sqlite3
